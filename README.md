@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kristoffer Ryan C. Camag 21years old. I'm third year taking up Bachelor of Science in Information Technology in Central Philippine University.</h1>
+<li align="left">1. I always love to travel</li>
+<li align="left">2. I always get tired and sleepy</li>
+<li align="left">3. I am talkative when it comes to my friends</li>
+<li align="left">4. I am willing to share my problems to my friends</li>
+<li align="left">5. I easily gets bored</li>
 
-<!--
-**Kristofferrr/Kristofferrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/kristofferrrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kristofferrrrr" height="30" width="40" /></a>
+</p>
